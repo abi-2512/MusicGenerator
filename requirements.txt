@@ -1,0 +1,5 @@
+keras==2.8.0
+music21==8.1.0
+numpy==1.22.3
+pandas==1.2.3
+streamlit==1.8.1
